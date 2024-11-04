@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yuzhuruuu
-- 👀 I’m interested in sofware engineering
+- 👋 Hi, I’m yusri
+- 👀 I’m interested in informations technology
 - 🌱 I’m currently learning information sytsem
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me is in instagram ysr.rchmh
