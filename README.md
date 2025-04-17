@@ -1,8 +1,8 @@
 - 👋 Hi, I’m yusri
-- 👀 I’m interested in informations technology
-- 🌱 I’m currently learning information sytsem
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me is in instagram ysr.rchmh
+- 👀 I’m into software technology and AI as well
+- 🌱 I’m currently learning information systems in computer science department
+- 💞️ I'm looking to collaborate to improve my skills and build my portfolio.
+- 📫 You can reach me is in instagram and LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im handsome
 
