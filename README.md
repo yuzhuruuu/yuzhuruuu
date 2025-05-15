@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Let’s Connect!
-[![Instagram](https://img.shields.io/badge/@yuzhuruuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ysr.rchmh)
+[![Instagram](https://img.shields.io/badge/@Yusri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ysr.rchmh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
