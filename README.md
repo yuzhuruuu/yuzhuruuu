@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  🌱 Informatics Student at Universitas Negeri Semarang <br>
+  🌱 Computer Science Student at Universitas Negeri Semarang <br>
   💡 Passionate about software development & creative tech <br>
   🎨 Graphic Designer | 💻 Developer | 📈 Problem Solver
 </p>
