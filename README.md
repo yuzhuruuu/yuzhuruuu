@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 Welcome to My Repository!</h1>
 
-![Yusri Annisa](img/header.jpg)
+<div align="center">
+  <img src="img/header.jpg" alt="Yusri Annisa" />
+</div>
 
 <p align="center">
   🌱 Informatics Student at Universitas Negeri Semarang <br>
