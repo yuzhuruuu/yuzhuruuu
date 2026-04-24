@@ -6,8 +6,8 @@
 
 <p align="center">
   🌱 Computer Science Student at Universitas Negeri Semarang <br>
-  💡 Passionate about software development & creative tech <br>
-  🎨 Graphic Designer | 💻 Developer | 📈 Problem Solver
+  💡 Passionate about Data & Machine Learning <br>
+  🎨 Graphic Designer | 💻 Developer | 📈 Data Scientist
 </p>
 
 ---
