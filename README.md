@@ -1,25 +1,25 @@
-<h1 align="center">Yusri Annisa</h1>
-
+<!-- 🌌 Gradient Banner -->
 <p align="center">
-  <b>Data Enthusiast • Machine Learning Learner • Web Developer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Yusri%20Annisa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h3 align="center">Data Enthusiast • Machine Learning Learner • Web Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights;Building+with+Code+and+Creativity;Always+Learning+Something+New&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights;Building+Smart+Applications;Exploring+Machine+Learning;Always+Learning&center=true&width=500&height=40">
 </p>
 
 ---
 
 ### 🧠 About Me
-
 <p align="center">
-I’m a Computer Science student who loves transforming data into meaningful insights and building modern web applications.  
-Currently exploring <b>Machine Learning</b> while strengthening my foundation in <b>software development</b>.
+I am a Computer Science student passionate about transforming data into meaningful insights and building impactful applications.  
+Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while developing modern web solutions.
 </p>
 
 ---
 
-### ⚡ Tech Ecosystem
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,react,tailwind,vite,html,css" />
@@ -36,7 +36,7 @@ Currently exploring <b>Machine Learning</b> while strengthening my foundation in
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuzhuruuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -49,12 +49,27 @@ Currently exploring <b>Machine Learning</b> while strengthening my foundation in
 
 ---
 
-### 🚀 Featured Focus
+### 📈 Contribution Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzhuruuu&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuzhuruuu/yuzhuruuu/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🚀 Focus Area
+<p align="center">
   📌 Data Analysis • Machine Learning • Web Development <br>
-  📌 Building real-world projects with Python & modern web stack <br>
-  📌 Exploring AI-powered applications
+  📌 Building real-world data-driven applications <br>
+  📌 Exploring AI-powered solutions
 </p>
 
 ---
@@ -73,5 +88,10 @@ Currently exploring <b>Machine Learning</b> while strengthening my foundation in
 ---
 
 <p align="center">
-  <i>“Small progress each day leads to big results.”</i>
+  <i>“Turning data into decisions, one step at a time.”</i>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 </p>
