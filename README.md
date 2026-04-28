@@ -1,67 +1,78 @@
-<h1 align="center">Hi there 👋 I'm Yusri Annisa</h1>
-
-<div align="center">
-  <img src="img/header.jpg" alt="Yusri Annisa" />
-</div>
+<h1 align="center">Hi 👋 I'm Yusri Annisa</h1>
 
 <p align="center">
-  🎓 Computer Science Student at Universitas Negeri Semarang <br>
-  📊 Passionate about Data, Machine Learning & Technology <br>
-  💻 Developer | 📈 Data Enthusiast | 🎨 Creative Thinker
+  <i>Turning data into meaningful insights 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Enthusiast;Machine+Learning+Learner;Web+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Data Analysis & Machine Learning**
-- 🧠 Interested in turning data into **insightful solutions**
-- ⚡ Building projects with **modern web & data tech**
-- 🎯 Goal: Becoming a **Data Scientist with strong engineering skills**
+### 👩‍💻 About Me
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Computer Science Student at Universitas Negeri Semarang  
+- 📊 Focused on **Data Analysis & Machine Learning**  
+- 💻 Building with **modern web technologies**  
+- 🎯 Future goal: **Data Scientist + Tech Builder**  
+- ⚡ Fun fact: I love mixing **design + data + code**
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-#### 💻 Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js" />
+</p>
 
-#### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+#### 🌐 Frontend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma" />
+</p>
 
-#### 📊 Data & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+#### 📊 Data & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-#### 🔧 Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-green?style=for-the-badge" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuzhuruuu&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhuruuu&layout=compact&theme=tokyonight" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuzhuruuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzhuruuu&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhuruuu&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
 
-### 📫 Let’s Connect!
-[![Instagram](https://img.shields.io/badge/@Yusri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ysr.rchmh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annisayusri-nurrochmah)
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/ysr.rchmh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/annisayusri-nurrochmah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> _"Turning data into meaningful impact."_ 🚀
+### 💡 Quote
 
-<!---
-yuzhuruuu/yuzhuruuu is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+<p align="center">
+  <i>"Consistency beats perfection. Always."</i>
+</p>
