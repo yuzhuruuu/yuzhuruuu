@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 <p align="center">
 I am a Computer Science student passionate about transforming data into meaningful insights and building impactful applications.  
 Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while developing modern web solutions.
@@ -19,7 +19,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,react,tailwind,vite,html,css" />
@@ -36,7 +36,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuzhuruuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -49,7 +49,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzhuruuu&theme=tokyo-night&hide_border=true"/>
@@ -57,7 +57,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuzhuruuu/yuzhuruuu/output/github-contribution-grid-snake.svg" />
@@ -65,7 +65,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### 🚀 Focus Area
+### Focus Area
 <p align="center">
   📌 Data Analysis • Machine Learning • Web Development <br>
   📌 Building real-world data-driven applications <br>
@@ -74,7 +74,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ---
 
-### 🌐 Connect
+### Connect
 
 <p align="center">
   <a href="https://instagram.com/ysr.rchmh">
