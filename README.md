@@ -1,7 +1,4 @@
 <!-- 🌌 Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Yusri%20Annisa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
 
 <h3 align="center">Data Enthusiast • Machine Learning Learner • Web Developer</h3>
 
