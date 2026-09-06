@@ -27,7 +27,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-2ECC71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge" />
 </p>
 
