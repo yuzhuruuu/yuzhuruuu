@@ -64,7 +64,7 @@ Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while dev
 
 ### Focus Area
 <p align="center">
-  📌 Data Analysis • Machine Learning • Web Development <br>
+  📌 Data Scientist • Machine Learning • Web Development <br>
   📌 Building real-world data-driven applications <br>
   📌 Exploring AI-powered solutions
 </p>
