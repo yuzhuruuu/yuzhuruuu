@@ -11,7 +11,7 @@
 ### About Me
 <p align="center">
 I am a Computer Science student passionate about transforming data into meaningful insights and building impactful applications.  
-Currently focusing on <b>Machine Learning</b> and <b>Data Analysis</b> while developing modern web solutions.
+Currently focusing on <b>Data Science</b> and <b>Machine Learning</b> while developing modern web solutions.
 </p>
 
 ---
