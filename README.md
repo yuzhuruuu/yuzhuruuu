@@ -11,7 +11,7 @@
 ### About Me
 <p align="center">
 I am a Computer Science student passionate about transforming data into meaningful insights and building impactful applications.  
-Currently focusing on <b>Data Science</b> and <b>Machine Learning</b> while developing modern web solutions.
+Currently focusing on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b> while developing modern web solutions.
 </p>
 
 ---
@@ -19,7 +19,11 @@ Currently focusing on <b>Data Science</b> and <b>Machine Learning</b> while deve
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,react,tailwind,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,react,tailwind,vite,html,css" />
 </p>
 
 <p align="center">
@@ -29,6 +33,7 @@ Currently focusing on <b>Data Science</b> and <b>Machine Learning</b> while deve
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-2ECC71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-667eea?style=for-the-badge" />
 </p>
 
 ---
