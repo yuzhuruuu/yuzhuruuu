@@ -19,7 +19,7 @@ Currently focusing on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,langflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,r,flask,fastapi,mysql,postgres,sqlite" />
 </p>
 
 <p align="center">
@@ -27,16 +27,15 @@ Currently focusing on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-667eea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-
----
 
 ### GitHub Analytics
 
