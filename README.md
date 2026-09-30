@@ -19,7 +19,7 @@ Currently focusing on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,langflow" />
 </p>
 
 <p align="center">
